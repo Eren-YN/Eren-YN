@@ -3,14 +3,14 @@
 ## HI, I'm Eren Yaman
 
 # Welcome to my profile
+
 ## Things That I love are...
-### Hobby's
 * **Gaming🎮**
 * **Cooking🧑‍🍳**
 * **Swimming🏊**
-*
 * ...
-### Things that I hate are...
+
+## Things that I hate are...
 * Waking up for school ⏰
 * Talking while eating🍳
 * _Taxes💸_
