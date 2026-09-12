@@ -12,7 +12,7 @@
 * Waking up for school ⏰
 * Talking while eating🍳
 * _Taxes💸_
-* __**Nikolas Micheal**__
+* __**Nikolas Micheal and his servers**__
 
 ### I'm Curently...
 * Studying
