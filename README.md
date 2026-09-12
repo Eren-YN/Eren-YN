@@ -1,6 +1,6 @@
 #rsd
 
-## I'm Eren Yaman
+## HI, I'm Eren Yaman
 
 # Welcome to my profile
 ## Things That I love are...
