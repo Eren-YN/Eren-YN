@@ -1,5 +1,3 @@
-#rsd
-
 ## HI, I'm Eren Yaman
 
 # Welcome to my profile
