@@ -26,7 +26,7 @@
 
 ### My Secret Hobby is...
 * **Urbexing⛔**
-* ![Cockerill Sambre](/https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cockerill-Sambre_2012-1.jpg/960px-Cockerill-Sambre_2012-1.jpg?utm_source=nl.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+* <img width="960" height="720" alt="Cockerill-Sambre_2012-1" src="https://github.com/user-attachments/assets/7e65adc0-71b3-4e24-9b94-e44f1ef0270e" />
 
 ### My dream is...
 * Travlling the world
