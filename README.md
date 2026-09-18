@@ -24,7 +24,7 @@
 
 ### My Secret Hobby is...
 * **Urbexing⛔**
-(([https://www.viktormacha.com/galerie/cockerill-sambre-ougree/cockerill-sambre-ougree-hfb-3786.html](https://gettyimages.com/photos/cockerill-sambre)))
+[!https://gettyimages.com/photos/cockerill-sambre](google.com)
 
 ### My dream is...
 * Travelling the world
