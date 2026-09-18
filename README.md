@@ -24,7 +24,7 @@
 
 ### My Secret Hobby is...
 * **Urbexing⛔**
-[!https://gettyimages.com/photos/cockerill-sambre](google.com)
+[![Urbex]([Image URL](https://gettyimages.com/photos/cockerill-sambre))](https://github.com/Eren-YN?tab=repositories)
 
 ### My dream is...
 * Travelling the world
