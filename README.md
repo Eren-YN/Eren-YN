@@ -28,10 +28,10 @@
 
 
 ### My dream is...
-* Travlling the world
+* Travelling the world
 
 ### Opinions
 * Trump is evil
-* Celebrities(most of them) are pawns of the devil
+* Celebrities (most of them) are pawns of the devil
 * This generation of kids/teenagers are doomed
 * Greek foods are stolen Turkish food
