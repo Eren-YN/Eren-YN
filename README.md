@@ -34,7 +34,7 @@ Top 3
 | Favorite Food | Least Favorite Food  |
 | ------------- |:-------------:|
 | Iskender     | Fufu     |
-| Baklava      | Every Indian Street Food     |
+| Pasta Polo      | Every Indian Street Food     |
 | Tantuni      | Chinese Dog/Cat      |
 
 ### Opinions
