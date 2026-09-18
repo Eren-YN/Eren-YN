@@ -24,10 +24,18 @@
 
 ### My Secret Hobby is...
 * **Urbexing⛔**
-[![Urbex]([Image URL](https://gettyimages.com/photos/cockerill-sambre))](https://github.com/Eren-YN?tab=repositories)
+
 
 ### My dream is...
 * Travelling the world
+
+## Tables
+Top 3
+| Favorite Food | Least Favorite Food  |
+| ------------- |:-------------:|
+| Iskender     | Fufu     |
+| Baklava      | Every Indian Street Food     |
+| Tantuni      | Chinese Dog/Cat      |
 
 ### Opinions
 * Trump is evil
