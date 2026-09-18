@@ -24,7 +24,6 @@
 
 ### My Secret Hobby is...
 * **Urbexing⛔**
-<img width="612" height="493" alt="image" src="https://github.com/user-attachments/assets/ba1d145a-3fa1-46eb-9f59-91609749196a" />
 
 
 ### My dream is...
